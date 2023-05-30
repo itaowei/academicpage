@@ -81,11 +81,11 @@ Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
 
 ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
-- Stars of Tomorrow (Award of Excellent Intern) at Microsoft Research Asia, in 2021
+- Stars of Tomorrow (Award of Excellent Intern) at MSRA, in 2021
 - 1st Class Scholarship at Fudan Univ., in 2019,2020,2021,2022
 - Excellent Student Cadre at Fudan Univ., in 2020
 - Outstanding League Cadres at Fudan Univ., in 2020
 - Merit Student at Fudan Univ., in 2019
 - Outstanding Graduates at ECNU, in 2018
-- 2nd national prize at Chinese Undergraduate Computer Design Competition, in 2018
+- 2nd National Prize at Chinese Undergraduate Computer Design Competition, in 2018
 - Outstanding Volunteer at ECNU, in 2015
