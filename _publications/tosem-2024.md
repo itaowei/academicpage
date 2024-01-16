@@ -62,7 +62,7 @@ at [https://anonymous.4open.science/r/CommitMessageEmpirical](https://anonymous.
                Haofen Wang and
                Wenqiang Zhang},
   title     = {KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation},
-  journal   = {{ACM} Trans. Softw. Eng. Methodol.},
+  journal   = {% raw %}{{ACM}}{% endraw %} Trans. Softw. Eng. Methodol.,
   year      = {2024}
 }
 ```
