@@ -32,7 +32,7 @@ This method composes a distribution-aware confidence function and a dynamic dist
 Experimental results on the whole MCMD dataset demonstrate that our method overall achieves state-of-the-art performance compared with previous methods.
 
 Our source code and data are available 
-at [https://anonymous.4open.science/r/CommitMessageEmpirical](https://anonymous.4open.science/r/CommitMessageEmpirical)
+at [https://github.com/DeepSoftwareAnalytics/KADEL](https://github.com/DeepSoftwareAnalytics/KADEL)
 
 ## Links
 
