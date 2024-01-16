@@ -11,19 +11,20 @@ redirect_from:
 
 Hello <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 
-I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn). My supervisor is [Dr. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html) and thank him for his multi-faceted supports. Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn) at 2018. 
+I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn). 
 
-My research interests include **Code Intelligence** and **Natural Language Generation**. The intersection of natural language processing and software engineering is my favorite area of research lately.
+My research interests include **Intelligent Software Maintenance and Evolution** and **LLM-based Agent**. The intersection of LLM and software engineering is my favorite area of research lately.
 
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-### RACE: Retrieval-augmented Commit Message Generation
 
-Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+### [KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](./publication/tosem-2024)
 
-*Empirical Methods in Natural Language Processing (EMNLP), 2022*
+<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang
 
-[[pdf](https://arxiv.org/abs/2203.02700)] [[code](https://github.com/DeepSoftwareAnalytics/RACE)]
+*ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*
+
+[[pdf](https://dl.acm.org/toc/tosem/justaccepted)] [[code](https://github.com/DeepSoftwareAnalytics/KADEL)]
 
 
 ### [A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation](./publication/emse-2022)
@@ -35,13 +36,13 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 [[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
-### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
+### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 
-Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
+<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
-*Information Fusion, 2022*
+*IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
-[[pdf](https://doi.org/10.1016/j.inffus.2022.03.009)]
+[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
 ### Type-Aware Medical Visual Question Answering
@@ -53,14 +54,6 @@ Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9747087)] [[code](https://github.com/Dbassqwer/MedVQA_FITS)]
 
 
-### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
-
-<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
-
-*IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
-
-[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
-
 
 ### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
 
@@ -71,13 +64,35 @@ Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
 
 
+### RACE: Retrieval-augmented Commit Message Generation
+
+Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+
+*Empirical Methods in Natural Language Processing (EMNLP), 2022*
+
+[[pdf](https://arxiv.org/abs/2203.02700)] [[code](https://github.com/DeepSoftwareAnalytics/RACE)]
+
+
+
+### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
+
+Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
+
+*Information Fusion, 2022*
+
+[[pdf](https://doi.org/10.1016/j.inffus.2022.03.009)]
+
+
+
+
+
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Many thanks to my mentor, [Yanlin Wang](https://yanlin.info/))
+- 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Many thanks to my mentor, [Dr. Yanlin Wang](https://yanlin.info/))
 
 ## Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
-- Reviewer: ACL 2023, EMNLP 2022
+- Reviewer: ACL 2023, EMNLP 2022 2023, IJCAI 2024
 
 ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
