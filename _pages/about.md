@@ -24,7 +24,7 @@ My research interests include **Intelligent Software Maintenance and Evolution**
 
 *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*
 
-[[pdf](https://dl.acm.org/toc/tosem/justaccepted)] [[code](https://github.com/DeepSoftwareAnalytics/KADEL)]
+[[pdf](https://arxiv.org/abs/2401.08376)] [[code](https://github.com/DeepSoftwareAnalytics/KADEL)]
 
 
 ### [A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation](./publication/emse-2022)
