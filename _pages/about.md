@@ -18,6 +18,14 @@ My research interests include **Intelligent Software Maintenance and Evolution**
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
+### [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](./publication/magis-2024)
+
+<u>Wei Tao</u>, Yucheng Zhou, Wenqiang Zhang, Yu Cheng
+
+*Preprint, 2024*
+
+[[pdf](https://arxiv.org/abs/2403.17927)]
+
 ### [KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](./publication/tosem-2024)
 
 <u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang

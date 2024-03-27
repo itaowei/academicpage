@@ -36,7 +36,7 @@ at [https://github.com/DeepSoftwareAnalytics/KADEL](https://github.com/DeepSoftw
 
 ## Links
 
-- [View at ACM](#)
+- [View at ACM](https://dl.acm.org/doi/10.1145/3643675)
 
 - [View at Arxiv](https://arxiv.org/abs/2401.08376)
 
