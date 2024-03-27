@@ -18,8 +18,6 @@ In experiments, we employ the SWE-bench benchmark to compare MAGIS with popular 
 
 ## Links
 
-- [View at ACM](#)
-
 - [View at Arxiv](https://arxiv.org/abs/2403.17927)
 
 ## Related Works
