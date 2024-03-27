@@ -19,7 +19,7 @@
 
 
 
-<title>KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation - Wei Tao</title>
+<title>MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution - Wei Tao</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Wei Tao">
-<meta property="og:title" content="KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation">
+<meta property="og:title" content="MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution">
 
 
-  <link rel="canonical" href="https://itaowei.github.io/academicpage/publication/tosem-2024">
-  <meta property="og:url" content="https://itaowei.github.io/academicpage/publication/tosem-2024">
+  <link rel="canonical" href="https://itaowei.github.io/academicpage/publication/magis-2024">
+  <meta property="og:url" content="https://itaowei.github.io/academicpage/publication/magis-2024">
 
 
 
-  <meta property="og:description" content="Commit messages are natural language descriptions of code changes, which are important for software evolution such as code understanding and maintenance. However, previous methods are trained on the entire dataset without considering the fact that a portion of commit messages adhere to good practice (i.e., good-practice commits), while the rest do not. On the basis of our empirical study, we discover that training on good-practice commits significantly contributes to the commit message generation. Motivated by this finding, we propose a novel knowledge-aware denoising learning method called KADEL. Considering that good-practice commits constitute only a small proportion of the dataset, we align the remaining training samples with these good-practice commits. To achieve this, we propose a model that learns the commit knowledge by training on good-practice commits. This knowledge model enables supplementing more information for training samples that do not conform to good practice. However, since the supplementary information may contain noise or prediction errors, we propose a dynamic denoising training method. This method composes a distribution-aware confidence function and a dynamic distribution list, which enhances the effectiveness of the training process. Experimental results on the whole MCMD dataset demonstrate that our method overall achieves state-of-the-art performance compared with previous methods. Our source code and data are available at https://github.com/DeepSoftwareAnalytics/KADEL">
+  <meta property="og:description" content="In software evolution, resolving the emergent issues within GitHub repositories is a complex challenge that involves not only the incorporation of new code but also the maintenance of existing functionalities. Large Language Models (LLMs) have shown promise in code generation and understanding but face difficulties in code change, particularly at the repository level. To overcome these challenges, we empirically study the reason why LLMs mostly fail to resolve GitHub issues and analyze some impact factors. Motivated by the empirical findings, we propose a novel LLM-based Multi-Agent framework for GitHub Issue reSolution, MAGIS, consisting of four kinds of agents customized for the software evolution: Manager, Repository Custodian, Developer, and Quality Assurance Engineer agents. This framework leverages the collaboration of various agents in the planning and coding process to unlock the potential of LLMs to resolve GitHub issues. In experiments, we employ the SWE-bench benchmark to compare MAGIS with popular LLMs, including GPT-3.5, GPT-4, and Claude-2. MAGIS can resolve 13.94% GitHub issues, which significantly outperforms the baselines. Specifically, MAGIS achieves an eight-fold increase in resolved ratio over the direct application of GPT-4, the based LLM of our method. We also analyze the factors for improving GitHub issue resolution rates, such as line location, task allocation, etc.">
 
 
 
@@ -48,7 +48,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2024-01-16T00:00:00-08:00">
+  <meta property="article:published_time" content="2024-03-26T00:00:00-07:00">
 
 
 
@@ -240,21 +240,21 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation">
-    <meta itemprop="description" content="Commit messages are natural language descriptions of code changes, which are important for software evolution such as code understanding and maintenance. However, previous methods are trained on the entire dataset without considering the fact that a portion of commit messages adhere to good practice (i.e., good-practice commits), while the rest do not. On the basis of our empirical study, we discover that training on good-practice commits significantly contributes to the commit message generation. Motivated by this finding, we propose a novel knowledge-aware denoising learning method called KADEL. Considering that good-practice commits constitute only a small proportion of the dataset, we align the remaining training samples with these good-practice commits. To achieve this, we propose a model that learns the commit knowledge by training on good-practice commits. This knowledge model enables supplementing more information for training samples that do not conform to good practice. However, since the supplementary information may contain noise or prediction errors, we propose a dynamic denoising training method. This method composes a distribution-aware confidence function and a dynamic distribution list, which enhances the effectiveness of the training process. Experimental results on the whole MCMD dataset demonstrate that our method overall achieves state-of-the-art performance compared with previous methods. Our source code and data are available at https://github.com/DeepSoftwareAnalytics/KADEL">
-    <meta itemprop="datePublished" content="January 16, 2024">
+    <meta itemprop="headline" content="MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution">
+    <meta itemprop="description" content="In software evolution, resolving the emergent issues within GitHub repositories is a complex challenge that involves not only the incorporation of new code but also the maintenance of existing functionalities. Large Language Models (LLMs) have shown promise in code generation and understanding but face difficulties in code change, particularly at the repository level. To overcome these challenges, we empirically study the reason why LLMs mostly fail to resolve GitHub issues and analyze some impact factors. Motivated by the empirical findings, we propose a novel LLM-based Multi-Agent framework for GitHub Issue reSolution, MAGIS, consisting of four kinds of agents customized for the software evolution: Manager, Repository Custodian, Developer, and Quality Assurance Engineer agents. This framework leverages the collaboration of various agents in the planning and coding process to unlock the potential of LLMs to resolve GitHub issues. In experiments, we employ the SWE-bench benchmark to compare MAGIS with popular LLMs, including GPT-3.5, GPT-4, and Claude-2. MAGIS can resolve 13.94% GitHub issues, which significantly outperforms the baselines. Specifically, MAGIS achieves an eight-fold increase in resolved ratio over the direct application of GPT-4, the based LLM of our method. We also analyze the factors for improving GitHub issue resolution rates, such as line location, task allocation, etc.">
+    <meta itemprop="datePublished" content="March 26, 2024">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation
+          <h1 class="page__title" itemprop="headline">MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2024-01-16T00:00:00-08:00">January 16, 2024</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2024-03-26T00:00:00-07:00">March 26, 2024</time></p>
         
         
              
@@ -266,60 +266,38 @@
       <section class="page__content" itemprop="text">
         <h2 id="abstract">Abstract</h2>
 
-<p>Commit messages are natural language descriptions of code changes, which are important for software evolution such as code understanding and maintenance. 
-However, previous methods are trained on the entire dataset without considering the fact that a portion of commit messages adhere to good practice (i.e., good-practice commits), while the rest do not.</p>
+<p>In software evolution, resolving the emergent issues within GitHub repositories is a complex challenge that involves not only the incorporation of new code but also the maintenance of existing functionalities.</p>
 
-<p>On the basis of our empirical study, we discover that training on good-practice commits significantly contributes to the commit message generation.</p>
+<p>Large Language Models (LLMs) have shown promise in code generation and understanding but face difficulties in code change, particularly at the repository level. To overcome these challenges, we empirically study the reason why LLMs mostly fail to resolve GitHub issues and analyze some impact factors.</p>
 
-<p>Motivated by this finding, we propose a novel knowledge-aware denoising learning method called KADEL. 
-Considering that good-practice commits constitute only a small proportion of the dataset, we align the remaining training samples with these good-practice commits. 
-To achieve this, we propose a model that learns the commit knowledge by training on good-practice commits. 
-This knowledge model enables supplementing more information for training samples that do not conform to good practice. However, since the supplementary information may contain noise or prediction errors, we propose a dynamic denoising training method. 
-This method composes a distribution-aware confidence function and a dynamic distribution list, which enhances the effectiveness of the training process.</p>
+<p>Motivated by the empirical findings, we propose a novel LLM-based Multi-Agent framework for GitHub Issue reSolution, <strong>MAGIS</strong>, consisting of four kinds of agents customized for the software evolution: Manager, Repository Custodian, Developer, and Quality Assurance Engineer agents. This framework leverages the collaboration of various agents in the planning and coding process to unlock the potential of LLMs to resolve GitHub issues.</p>
 
-<p>Experimental results on the whole MCMD dataset demonstrate that our method overall achieves state-of-the-art performance compared with previous methods.</p>
-
-<p>Our source code and data are available 
-at <a href="https://github.com/DeepSoftwareAnalytics/KADEL">https://github.com/DeepSoftwareAnalytics/KADEL</a></p>
+<p>In experiments, we employ the SWE-bench benchmark to compare MAGIS with popular LLMs, including GPT-3.5, GPT-4, and Claude-2. MAGIS can resolve <strong>13.94%</strong> GitHub issues, which significantly outperforms the baselines. Specifically, MAGIS achieves an eight-fold increase in resolved ratio over the direct application of GPT-4, the based LLM of our method. We also analyze the factors for improving GitHub issue resolution rates, such as line location, task allocation, etc.</p>
 
 <h2 id="links">Links</h2>
 
 <ul>
-  <li>
-    <p><a href="https://dl.acm.org/doi/10.1145/3643675">View at ACM</a></p>
-  </li>
-  <li>
-    <p><a href="https://arxiv.org/abs/2401.08376">View at Arxiv</a></p>
-  </li>
-  <li>
-    <p><a href="https://doi.org/10.5281/zenodo.5025758">Related Dataset: <strong>M</strong>ulti-language <strong>C</strong>ommit <strong>M</strong>essage <strong>D</strong>ataset, MCMD</a></p>
-  </li>
-  <li>
-    <p><a href="https://github.com/DeepSoftwareAnalytics/KADEL">Code</a></p>
-  </li>
+  <li><a href="https://arxiv.org/abs/2403.17927">View at Arxiv</a></li>
 </ul>
 
 <h2 id="related-works">Related Works</h2>
 
-<p><a href="./emse-2022">A large-scale empirical study of commit message generation: models, datasets and evaluation</a></p>
-
-<p><a href="./icsme-2021">On the Evaluation of Commit Message Generation Models: An Experimental Study</a></p>
+<p><a href="./tosem-2024">KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation</a></p>
 
 <h2 id="recommended-citation">Recommended citation</h2>
 
 <h3 id="bibtex">BibTex</h3>
 
-<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">KADEL_CMG_24</span><span class="p">,</span>
+<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">magis_24</span><span class="p">,</span>
   <span class="na">author</span>    <span class="p">=</span> <span class="s">{Wei Tao and
                Yucheng Zhou and
-               Yanlin Wang and
-               Hongyu Zhang and
-               Haofen Wang and
-               Wenqiang Zhang}</span><span class="p">,</span>
-  <span class="na">title</span>     <span class="p">=</span> <span class="s">{KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation}</span><span class="p">,</span>
-  <span class="na">journal</span>   <span class="p">=</span> <span class="s">{{ACM} Trans. Softw. Eng. Methodol.}</span><span class="p">,</span>
-  <span class="na">year</span>      <span class="p">=</span> <span class="s">{2024}</span>
-<span class="p">}</span>
+               Wenqiang Zhang and
+               Yu Cheng}</span><span class="p">,</span>
+  <span class="na">title</span>     <span class="p">=</span> <span class="s">{MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution}</span><span class="p">,</span>
+  <span class="na">journal</span>   <span class="p">=</span> <span class="s">{Arxiv Preprint}</span><span class="p">,</span>
+  <span class="na">url</span>       <span class="p">=</span> <span class="s">{https://arxiv.org/abs/2403.17927}</span>
+  <span class="nv">year</span>      <span class="err">=</span> <span class="err">{2024</span><span class="p">}</span>
+<span class="c">}</span>
 </code></pre></div></div>
 
         
@@ -341,11 +319,11 @@ at <a href="https://github.com/DeepSoftwareAnalytics/KADEL">https://github.com/D
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://itaowei.github.io/academicpage/publication/tosem-2024" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://itaowei.github.io/academicpage/publication/magis-2024" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://itaowei.github.io/academicpage/publication/tosem-2024" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://itaowei.github.io/academicpage/publication/magis-2024" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://itaowei.github.io/academicpage/publication/tosem-2024" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://itaowei.github.io/academicpage/publication/magis-2024" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -353,12 +331,11 @@ at <a href="https://github.com/DeepSoftwareAnalytics/KADEL">https://github.com/D
 
   <nav class="pagination">
     
-      <a href="https://itaowei.github.io/academicpage/publication/emse-2022" class="pagination--pager" title="A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation
+      <a href="https://itaowei.github.io/academicpage/publication/tosem-2024" class="pagination--pager" title="KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation
 ">Previous</a>
     
     
-      <a href="https://itaowei.github.io/academicpage/publication/magis-2024" class="pagination--pager" title="MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
