@@ -107,7 +107,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
-- Outstanding Graduate of Shanghai at Fudan Univ., in 2024
+- Outstanding Graduate of Shanghai, in 2024
 - Stars of Tomorrow (Award of Excellent Intern) at MSRA, in 2021
 - 1st Class Scholarship at Fudan Univ., in 2019, 2020, 2021, 2022
 - Excellent Student Cadre at Fudan Univ., in 2020
