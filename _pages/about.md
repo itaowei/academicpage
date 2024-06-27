@@ -11,7 +11,7 @@ redirect_from:
 
 Hello <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 
-I just received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+I received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 I am very fortunate to collaborate on research with [Dr. Yanlin Wang](https://yanlin.info), [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn) and [Prof. Yu Cheng](https://ych133.github.io).
 Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn). 
 
@@ -22,9 +22,9 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ### [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](./publication/magis-2024)
 
-<u>Wei Tao</u>, Yucheng Zhou, Wenqiang Zhang, Yu Cheng
+<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, Yu Cheng
 
-*Preprint, 2024*
+*arXiv Preprint, 2024*
 
 [[pdf](https://arxiv.org/abs/2403.17927)]
 
