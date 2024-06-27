@@ -57,14 +57,20 @@ at [https://github.com/DeepSoftwareAnalytics/KADEL](https://github.com/DeepSoftw
 
 ```bibtex
 @article{KADEL_CMG_24,
-  author    = {Wei Tao and
-               Yucheng Zhou and
-               Yanlin Wang and
-               Hongyu Zhang and
-               Haofen Wang and
-               Wenqiang Zhang},
-  title     = {KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation},
-  journal   = {% raw %}{{ACM} Trans. Softw. Eng. Methodol.}{% endraw %},
-  year      = {2024}
+author = {Tao, Wei and Zhou, Yucheng and Wang, Yanlin and Zhang, Hongyu and Wang, Haofen and Zhang, Wenqiang},
+title = {KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {33},
+number = {5},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3643675},
+doi = {10.1145/3643675},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = {jun},
+articleno = {133},
+numpages = {32}
 }
 ```
