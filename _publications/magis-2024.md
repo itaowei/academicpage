@@ -24,6 +24,9 @@ MAGIS can resolve **13.94**% GitHub issues, significantly outperforming the base
 
 - [View at Arxiv](https://arxiv.org/abs/2403.17927)
 
+- [View at NeurIPS](https://neurips.cc/virtual/2024/poster/93481)
+
+
 ## Related Works
 
 [KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](./tosem-2024)

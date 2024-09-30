@@ -24,7 +24,7 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 <u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, Yu Cheng
 
-*arXiv Preprint, 2024*
+*Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
 [[pdf](https://arxiv.org/abs/2403.17927)]
 
