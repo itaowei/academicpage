@@ -88,7 +88,7 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
 
-*Information Fusion, 2022*
+*Information Fusion, 2022 ([2024 INFFUS Best Survey Award](https://www.sciencedirect.com/journal/information-fusion/about/awards/2024-inffus-best-paper-best-survey-and-best-editor-award)*
 
 [[pdf](https://doi.org/10.1016/j.inffus.2022.03.009)]
 
@@ -103,7 +103,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ## Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
-- Reviewer / PC: ACL 2023, EMNLP 2022 2023, IJCAI 2024
+- Reviewer / PC: TOSEM, ACL, EMNLP, IJCAI, etc.
 
 ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
