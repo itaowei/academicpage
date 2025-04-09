@@ -20,6 +20,16 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
+### OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution
+
+Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng
+
+*ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
+
+[[conf](https://conf.researchr.org/details/issta-2025/issta-2025-papers/2/OmniGIRL-A-Multilingual-and-Multimodal-Benchmark-for-GitHub-Issue-Resolution)]
+
+
+
 ### [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](./publication/magis-2024)
 
 <u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, Yu Cheng
@@ -27,6 +37,8 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 *Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
 [[pdf](https://arxiv.org/abs/2403.17927)]
+
+
 
 ### [KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](./publication/tosem-2024)
 
@@ -46,15 +58,6 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 [[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
-### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
-
-<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
-
-*IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
-
-[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
-
-
 ### Type-Aware Medical Visual Question Answering
 
 Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
@@ -65,13 +68,14 @@ Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 
 
-### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
+### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
 
-Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
+Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
 
-*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
+*Information Fusion, 2022 ([2024 INFFUS Best Survey Award](https://www.sciencedirect.com/journal/information-fusion/about/awards/2024-inffus-best-paper-best-survey-and-best-editor-award))*
 
-[[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
+[[pdf](https://doi.org/10.1016/j.inffus.2022.03.009)]
+
 
 
 ### RACE: Retrieval-augmented Commit Message Generation
@@ -84,13 +88,23 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 
 
-### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
+### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 
-Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
+<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
-*Information Fusion, 2022 ([2024 INFFUS Best Survey Award](https://www.sciencedirect.com/journal/information-fusion/about/awards/2024-inffus-best-paper-best-survey-and-best-editor-award)*
+*IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
-[[pdf](https://doi.org/10.1016/j.inffus.2022.03.009)]
+[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
+
+
+
+### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
+
+Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
+
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
 
 
 
