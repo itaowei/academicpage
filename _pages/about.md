@@ -26,7 +26,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 
 *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
 
-[[conf](https://conf.researchr.org/details/issta-2025/issta-2025-papers/2/OmniGIRL-A-Multilingual-and-Multimodal-Benchmark-for-GitHub-Issue-Resolution)]
+[[pdf](https://arxiv.org/abs/)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
 
 
