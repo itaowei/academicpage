@@ -26,7 +26,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 
 *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
 
-[[pdf](https://arxiv.org/abs/)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
+[[pdf](https://arxiv.org/abs/2505.04606)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
 
 
 
