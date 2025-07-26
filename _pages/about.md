@@ -36,7 +36,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 
 *Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
-[[pdf](https://arxiv.org/abs/2403.17927)]
+[[pdf](https://arxiv.org/abs/2403.17927)] [[code](https://github.com/co-evolve-lab/magis)]
 
 
 
