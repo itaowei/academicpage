@@ -117,7 +117,7 @@ Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
 
 ## Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
-- Reviewer / PC: TOSEM, ACL, EMNLP, IJCAI, etc.
+- Reviewer / PC: NeurIPS, TOSEM, ACL, EMNLP, IJCAI, etc.
 
 ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
