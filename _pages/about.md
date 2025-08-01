@@ -68,15 +68,6 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 [[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
-### Type-Aware Medical Visual Question Answering
-
-Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
-
-*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*
-
-[[pdf](https://ieeexplore.ieee.org/abstract/document/9747087)] [[code](https://github.com/Dbassqwer/MedVQA_FITS)]
-
-
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
 
@@ -88,16 +79,6 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 
 
-### RACE: Retrieval-augmented Commit Message Generation
-
-Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
-
-*Empirical Methods in Natural Language Processing (EMNLP), 2022*
-
-[[pdf](https://arxiv.org/abs/2203.02700)] [[code](https://github.com/DeepSoftwareAnalytics/RACE)]
-
-
-
 ### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 
 <u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
@@ -105,16 +86,6 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
 [[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
-
-
-
-### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
-
-Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
-
-*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
-
-[[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
 
 
 
