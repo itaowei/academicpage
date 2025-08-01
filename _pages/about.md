@@ -20,13 +20,23 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
+### C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations
+
+Chengqian Ma, <u>Wei Tao</u>, Yiwen Guo
+
+*arXiv Preprint*
+
+[[pdf](https://arxiv.org/abs/2507.22968)]  [[code](https://github.com/step-out/C3)] [[web](https://step-out.github.io/C3-web/)]
+
+
+
 ### OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution
 
 Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng
 
 *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
 
-[[pdf](https://arxiv.org/abs/2505.04606)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)]
+[[pdf](https://arxiv.org/abs/2505.04606)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)] [[web](https://deepsoftwareanalytics.github.io/omnigirl_leaderboard.html)]
 
 
 
