@@ -26,7 +26,7 @@ Chengqian Ma, <u>Wei Tao</u>, Yiwen Guo
 
 *arXiv Preprint*
 
-[[pdf](https://arxiv.org/abs/2507.22968)]  [[code](https://github.com/step-out/C3)] [[web](https://step-out.github.io/C3-web/)]
+[[pdf](https://arxiv.org/abs/2507.22968)]  [[code](https://github.com/step-out/C3)] [[web](https://step-out.github.io/C3-web/)] [[data](https://huggingface.co/datasets/ChengqianMa/C3)]
 
 
 
@@ -36,7 +36,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 
 *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
 
-[[pdf](https://arxiv.org/abs/2505.04606)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)] [[web](https://deepsoftwareanalytics.github.io/omnigirl_leaderboard.html)]
+[[pdf](https://arxiv.org/abs/2505.04606)]  [[code](https://github.com/DeepSoftwareAnalytics/OmniGIRL)] [[web](https://deepsoftwareanalytics.github.io/omnigirl_leaderboard.html)] [[data](https://huggingface.co/datasets/Deep-Software-Analytics/OmniGIRL)]
 
 
 
@@ -65,7 +65,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu
 
 *Empirical Software Engineering (EMSE), 2022*
 
-[[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
+[[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)] [[data](https://zenodo.org/records/5025758)]
 
 
 
@@ -85,7 +85,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
-[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
+[[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)] [[data](https://zenodo.org/records/5025758)]
 
 
 
