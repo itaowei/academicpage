@@ -22,9 +22,9 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ### C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations
 
-Chengqian Ma, <u>Wei Tao</u>, Yiwen Guo
+Chengqian Ma<sup>†</sup>, <u>Wei Tao<sup>†</sup></u>, Yiwen Guo
 
-*arXiv Preprint*
+*Empirical Methods in Natural Language Processing (EMNLP), 2025*
 
 [[pdf](https://arxiv.org/abs/2507.22968)]  [[code](https://github.com/step-out/C3)] [[web](https://step-out.github.io/C3-web/)] [[data](https://huggingface.co/datasets/ChengqianMa/C3)]
 
