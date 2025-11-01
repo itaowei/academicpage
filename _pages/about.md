@@ -20,6 +20,17 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
+> <sup>†</sup>: Co-authors, <sup>*</sup>: Corresponding authors.
+
+### SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
+
+Lianghong Guo, Yanlin Wang<sup>*</sup>, Caihua Li, Pengyu Yang, Jiachi Chen,<u>Wei Tao<sup>*</sup></u>, Yingtian Zou, Duyu Tang, Zibin Zheng
+
+*arXiv Preprint, 2025*
+
+[[pdf](https://arxiv.org/abs/2506.10954)]  [[code]([https://github.com/step-out/C3](https://github.com/DeepSoftwareAnalytics/swe-factory))] [[data & models]([https://huggingface.co/datasets/ChengqianMa/C3](https://huggingface.co/SWE-Factory))]
+
+
 ### C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations
 
 Chengqian Ma<sup>†</sup>, <u>Wei Tao<sup>†</sup></u>, Yiwen Guo
