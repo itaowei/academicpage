@@ -20,11 +20,11 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
-> <sup>†</sup>: Co-authors, <sup>*</sup>: Corresponding authors.
+> <sup>†</sup>: Co-authors, <sup>✉</sup>: Corresponding authors.
 
 ### SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
 
-Lianghong Guo, Yanlin Wang<sup>*</sup>, Caihua Li, Pengyu Yang, Jiachi Chen, <u>Wei Tao<sup>*</sup></u>, Yingtian Zou, Duyu Tang, Zibin Zheng
+Lianghong Guo, Yanlin Wang<sup>✉</sup>, Caihua Li, Pengyu Yang, Jiachi Chen, <u>Wei Tao<sup>✉</sup></u>, Yingtian Zou, Duyu Tang, Zibin Zheng
 
 *arXiv Preprint, 2025*
 
@@ -33,7 +33,7 @@ Lianghong Guo, Yanlin Wang<sup>*</sup>, Caihua Li, Pengyu Yang, Jiachi Chen, <u>
 
 ### C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations
 
-Chengqian Ma<sup>†</sup>, <u>Wei Tao<sup>†</sup></u>, Yiwen Guo<sup>*</sup>
+Chengqian Ma<sup>†</sup>, <u>Wei Tao<sup>†</sup></u>, Yiwen Guo<sup>✉</sup>
 
 *Empirical Methods in Natural Language Processing (EMNLP), 2025*
 
@@ -43,7 +43,7 @@ Chengqian Ma<sup>†</sup>, <u>Wei Tao<sup>†</sup></u>, Yiwen Guo<sup>*</sup>
 
 ### OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution
 
-Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>*</sup>, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng
+Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>✉</sup>, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng
 
 *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025*
 
@@ -53,7 +53,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>*</sup>, Jiachi Che
 
 ### [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](./publication/magis-2024)
 
-<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang<sup>*</sup>, Hongyu Zhang, Yu Cheng<sup>*</sup>
+<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang<sup>✉</sup>, Hongyu Zhang, Yu Cheng<sup>✉</sup>
 
 *Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
@@ -63,7 +63,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>*</sup>, Jiachi Che
 
 ### [KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](./publication/tosem-2024)
 
-<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang<sup>*</sup>, Hongyu Zhang, Haofen Wang, Wenqiang Zhang<sup>*</sup>
+<u>Wei Tao</u>, Yucheng Zhou, Yanlin Wang<sup>✉</sup>, Hongyu Zhang, Haofen Wang, Wenqiang Zhang<sup>✉</sup>
 
 *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*
 
@@ -72,7 +72,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>*</sup>, Jiachi Che
 
 ### [A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation](./publication/emse-2022)
 
-<u>Wei Tao</u>, Yanlin Wang<sup>*</sup>, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
+<u>Wei Tao</u>, Yanlin Wang<sup>✉</sup>, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *Empirical Software Engineering (EMSE), 2022*
 
@@ -82,7 +82,7 @@ Lianghong Guo, <u>Wei Tao</u>, Runhan Jiang, Yanlin Wang<sup>*</sup>, Jiachi Che
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
 
-Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang<sup>*</sup>
+Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang<sup>✉</sup>
 
 *Information Fusion, 2022 ([2024 INFFUS Best Survey Award](https://www.sciencedirect.com/journal/information-fusion/about/awards/2024-inffus-best-paper-best-survey-and-best-editor-award))*
 
@@ -92,7 +92,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 
-<u>Wei Tao</u>, Yanlin Wang<sup>*</sup>, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
+<u>Wei Tao</u>, Yanlin Wang<sup>✉</sup>, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
