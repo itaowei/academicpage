@@ -26,7 +26,7 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 Lianghong Guo, Yanlin Wang<sup>✉</sup>, Caihua Li, Pengyu Yang, Jiachi Chen, <u>Wei Tao<sup>✉</sup></u>, Yingtian Zou, Duyu Tang, Zibin Zheng
 
-*arXiv Preprint, 2025*
+*ACM International Conference on the Foundations of Software Engineering (FSE) , 2026*
 
 [[pdf](https://arxiv.org/abs/2506.10954)]  [[code](https://github.com/DeepSoftwareAnalytics/swe-factory)] [[data & models](https://huggingface.co/SWE-Factory)]
 
