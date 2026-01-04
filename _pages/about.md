@@ -22,9 +22,9 @@ My research interests include **Intelligent Software Evolution** and **LLM-based
 
 > <sup>†</sup>: Co-authors, <sup>✉</sup>: Corresponding authors.
 
-### SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
+### SWE Data Construction, Automatically!
 
-Lianghong Guo, Yanlin Wang<sup>✉</sup>, Caihua Li, Pengyu Yang, Jiachi Chen, <u>Wei Tao<sup>✉</sup></u>, Yingtian Zou, Duyu Tang, Zibin Zheng
+Lianghong Guo, Yanlin Wang<sup>✉</sup>, Caihua Li, <u>Wei Tao<sup>✉</sup></u>, Pengyu Yang, Jiachi Chen, Haoyu Song, Duyu Tang, Zibin Zheng
 
 *ACM International Conference on the Foundations of Software Engineering (FSE) , 2026*
 
