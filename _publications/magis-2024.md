@@ -37,16 +37,28 @@ MAGIS can resolve **13.94**% GitHub issues, significantly outperforming the base
 ### BibTex
 
 ```bibtex
-@article{magis_24,
-  author    = {Wei Tao and
-               Yucheng Zhou and
-               Yanlin Wang and
-               Wenqiang Zhang and
-               Hongyu Zhang and
-               Yu Cheng},
-  title     = {MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution},
-  journal   = {% raw %}{Arxiv Preprint}{% endraw %},
-  url       = {https://arxiv.org/abs/2403.17927}
-  year      = {2024}
+@inproceedings{DBLP:conf/nips/0003ZWZ0C24,
+  author       = {Wei Tao and
+                  Yucheng Zhou and
+                  Yanlin Wang and
+                  Wenqiang Zhang and
+                  Hongyu Zhang and
+                  Yu Cheng},
+  editor       = {Amir Globersons and
+                  Lester Mackey and
+                  Danielle Belgrave and
+                  Angela Fan and
+                  Ulrich Paquet and
+                  Jakub M. Tomczak and
+                  Cheng Zhang},
+  title        = {{MAGIS:} LLM-Based Multi-Agent Framework for GitHub Issue Resolution},
+  booktitle    = {Advances in Neural Information Processing Systems 38: Annual Conference
+                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
+                  BC, Canada, December 10 - 15, 2024},
+  year         = {2024},
+  url          = {http://papers.nips.cc/paper\_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html},
+  timestamp    = {Wed, 02 Jul 2025 18:51:55 +0200},
+  biburl       = {https://dblp.org/rec/conf/nips/0003ZWZ0C24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
