@@ -11,14 +11,15 @@ redirect_from:
 
 Hello <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 
-I received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
-I am very fortunate to collaborate on research with [Dr. Yanlin Wang](https://yanlin.info), [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn) and [Prof. Yu Cheng](https://ych133.github.io).
+I am currently a Senior Researcher at [Tencent](https://www.tencent.com/), specializing in Code Intelligence and AI Agent.
+Previously, I received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](https://iipl.fudan.edu.cn/70/e4/c45863a684260/page.htm).
+I am very fortunate to collaborate on research with [Prof. Yanlin Wang](https://yanlin.info), [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn) and [Prof. Yu Cheng](https://ych133.github.io).
 Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn). 
 
 My research interests include **Intelligent Software Evolution** and **LLM-based Agent**. The intersection of LLM and software engineering is my favorite area of research lately.
 
 
-## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
+## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
 > <sup>†</sup>: Co-authors, <sup>✉</sup>: Corresponding authors.
 
@@ -104,7 +105,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2024.08- now Senior Researcher at [Tencent](https://www.tencent.com/)([Project UP, 青云计划](https://join.qq.com/qingyun.html))
+- 2024.08- now Senior Researcher at [Tencent](https://www.tencent.com/) ([Project UP, 青云计划](https://join.qq.com/qingyun.html))
 - 2023.08-2024.06 Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)
 - 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
