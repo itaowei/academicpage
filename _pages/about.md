@@ -11,7 +11,7 @@ redirect_from:
 
 Hello <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 
-I am currently a Senior Researcher at [Tencent](https://www.tencent.com/), specializing in Code Intelligence and AI Agent.
+I am currently a Senior Researcher at [Tencent](https://www.tencent.com/).
 Previously, I received my Ph.D. degree from [Fudan University](https://www.fudan.edu.cn) under the supervision of [Prof. Wenqiang Zhang](https://iipl.fudan.edu.cn/70/e4/c45863a684260/page.htm).
 I am very fortunate to collaborate on research with [Prof. Yanlin Wang](https://yanlin.info), [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn) and [Prof. Yu Cheng](https://ych133.github.io).
 Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn). 
