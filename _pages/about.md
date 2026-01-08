@@ -105,9 +105,9 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2024.08- now Senior Researcher at [Tencent](https://www.tencent.com/) ([Project UP, 青云计划](https://join.qq.com/qingyun.html))
-- 2023.08-2024.06 Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)
-- 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
+- 2024.08 - now  Senior Researcher at [Tencent](https://www.tencent.com/) ([Project UP, 青云计划](https://join.qq.com/qingyun.html))
+- 2023.08 - 2024.06  Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)
+- 2020.11 - 2021.07  Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
 ## Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
