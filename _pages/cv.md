@@ -11,32 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Fudan University, 2018-2024
+* B.S. in East China Normal University, 2014-2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.08 - now  Senior Researcher at [Tencent](https://www.tencent.com/) ([Project UP, 青云计划](https://join.qq.com/qingyun.html))
+* 2023.08 - 2024.06  Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)
+* 2020.11 - 2021.07  Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer / PC: NeurIPS, TSE, TOSEM, ACL, EMNLP, IJCAI, etc.
